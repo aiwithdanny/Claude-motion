@@ -1,0 +1,5 @@
+name: claude_motion
+title: Claude Motion
+description: Make polished motion graphics and simulation videos with taste rules, a timeline-first Remotion workflow, a visual self-review loop, and a procedural sound engine mastered to -14 LUFS.
+category: "Work and knowledge"
+include_in_prompt: true
